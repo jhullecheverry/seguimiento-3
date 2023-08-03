@@ -1,4 +1,6 @@
-package src;
+package src.exercice16;
+
+import src.exercice17.Numbers;
 
 public class MainNumbers {
     public static void main(String[] args) {

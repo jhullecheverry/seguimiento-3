@@ -1,4 +1,4 @@
-package src;
+package src.exercice17;
 
 import javax.swing.*;
 
